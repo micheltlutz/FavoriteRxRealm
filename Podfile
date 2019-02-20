@@ -1,6 +1,7 @@
 project 'FavoriteRxRealm.xcodeproj'
 platform :ios, '11.0'
 
+
 target 'FavoriteRxRealm' do
   use_frameworks!
     # ReactiveX/RxSwift
